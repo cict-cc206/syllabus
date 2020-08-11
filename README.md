@@ -1,5 +1,7 @@
 # Course Syllabus
 
+> This syllabus is the intellectual property of WVSU.  It can be used for instruction purposes provided that prior approval is granted by the University. Likewise, the designer(s) of the syllabus must be properly acknowledged.
+
 ## Outcomes-Based Education (OBE) Course Design/Syllabus in CC 206 – Application Development & Emerging Technologies
 
 ### I. University
@@ -54,4 +56,43 @@ Specifically, the school endeavor to:
 |IT011|Analyze the local and global impact of computing information technology on individuals, organization, and society|
 |IT012|Understand professional, ethical, legal, security, and social issues and responsibilities in the utilization of information technology|
 |IT013|Recognize the need for and engage in planning self-learning and improving performance as a foundation for continuing professional development|
+
+#### V. Course No. and Title: CC 206 – Application Development and Emerging Technologies
+#### VI. School Year/Semester Offered: SY 2020-2021/ 1<sup>st</sup> Semester
+
+#### VII. Course Description:  
+
+This course covers development of mobile apps; implementation of emerging distributed computing environments using traditional and contemporary development methodologies and building IoT devices. Students will utilize a contemporary development environment to implement a project that spans the scope of the pre-requisite courses.  Towards the end of the course, students will be expected to present a complete and working mobile application. This is not a course that will teach a particular programming language. Students are expected to learn and use development technologies in order to develop the project for the course. 
+
+
+#### VIII. Course Credit/Unit:  3 units ( 3 hours lecture)
+
+#### IX. Course Outcome:  
+
+Upon completion of this course, the students can:
+
+LO1. Present the concepts and importance of Information Systems in Businesses, in its operations and its decision-makers decisions. 
+
+LO2. Present the different principles, characteristics, useful and robust transaction processing system that will support business operations. 
+
+LO3. Present different systems architecture that can be used for Enterprise Computing;
+
+LO4. Build students’ understanding of the different programming environments available for business application development.
+
+LO5. Develop students’ skills in analysis, design, and development of application software using a programming environment.
+
+LO6. Show the differences between a structured, event-driven, and object-oriented application design and explain the implications of these approaches to the design and development process.
+
+LO7. Develop a functional understanding of proactive principled behavior and time management.
+
+LO8. Apply the concept of commitment and rigorous completion to ensure attitudes necessary for successful team behavior including empathetic listening, consensus negotiation, conflict resolution, and synergistic solution finding.
+
+
+#### X. Course Design Matrix
+
+|DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face|Remote|Face to Face|Remote|RESOURCE MATERIAL|TIME TABLE|
+|---|---|---|---|---|---|---|---|---|
+|At end of the unit, the students must have: <br /> 1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes | 2013 University Code | Class Discussion | Video Presentation | | | Video IDs | 1 week |
+
+Activity Sheets
 
