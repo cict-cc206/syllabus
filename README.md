@@ -89,10 +89,57 @@ LO8. Apply the concept of commitment and rigorous completion to ensure attitudes
 
 
 #### X. Course Design Matrix
+> **OBTL**: Outcomes-Based Teaching & Learning; **ALO** : Assessment of Learning Outcomes
 
-|DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face|Remote|Face to Face|Remote|RESOURCE MATERIAL|TIME TABLE|
+> **DLO**: Desired Learning Outcomes - At end of the unit, the students must have:
+
+|DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face (OBTL)|Remote (OBTL)|Face to Face (ALO)|Remote (ALO)|RESOURCE MATERIAL|TIME TABLE|
 |---|---|---|---|---|---|---|---|---|
-|At end of the unit, the students must have: <br /> 1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes | 2013 University Code | Class Discussion | Video Presentation | | | Video IDs | 1 week |
+|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes | 2013 University Code | Class Discussion | Video Presentation | | | Video IDs | 1 week |
+|1. Define what a data, information, systems, business, and information system.<br />2. Identify the different types of business information systems.<br />3. Distinguish the characteristics of valuable information.|Overview of Business Information System|a|b|c|d|e|f|g|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
+|a|b|c|d|e|f|g|h|i|
 
-Activity Sheets
+> Note: This syllabus is flexible and may include additional topics and activities deemed necessary by the teacher and students.
+
+#### XI. Criteria for Grading 
+#### XII. Grading 
+#### XIII. Other Requirements 
+#### XIV. Course Mapping
+#### A. Course Outcomes in relation to Program Outcomes and Institutional Outcomes
+|Course Outcomes|Common to all Programs|Specific to the Program|Institutional Outcomes|
+|---|---|---|---|
+|a|b|c|d|
+
+#### B. Course Outcomes in relation with Teaching Learning Activities and Assessment Strategies
+
+|Course Outcomes|Teaching and Learning Activities|Assessment Strategies|
+|---|---|---|
+|a|b|c|
+
+Prepared and Designed By:
+
+
+Reviewed by:	
+
+DR. CYRENEO DOFITAS JR.<br>
+Department Chair 
+                                                       
+Approved:   	
+DR. MA. BETH S. CONCEPCION<br>
+College Dean
+
+
 
