@@ -95,22 +95,12 @@ LO8. Apply the concept of commitment and rigorous completion to ensure attitudes
 
 |DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face (OBTL)|Remote (OBTL)|Face to Face (ALO)|Remote (ALO)|RESOURCE MATERIAL|TIME TABLE|
 |---|---|---|---|---|---|---|---|---|
-|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes | 2013 University Code | Class Discussion | Video Presentation | | | Video IDs | 1 week |
-|1. Define what a data, information, systems, business, and information system.<br />2. Identify the different types of business information systems.<br />3. Distinguish the characteristics of valuable information.|Overview of Business Information System|a|b|c|d|e|f|g|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
-|a|b|c|d|e|f|g|h|i|
+|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes<br /><br />Course outcomes, Course description and course requirements. | 2013 University Code<br /><br />University Student Handbook<br /><br />Bulletin of Information | Class Discussion | Video Presentation <br /> Independent Reading|N/A|N/A| Video IDs <br /><br />School & College Websites <br /><br />GitHub Repositories | 3 hours |
+|1. Identified and described Information Systems and its significance in this modern era of computing.|Overview of Business Information Systems|[Link]| |Video Lecture<br /><br />Independent Learning||Weekly Consultation<br /><br />Feedbacking<br /><br />Research Work|Printable Learning Materials <br /><br />Presentations<br /><br />Videos|1 week|
+|1. Learned the different processes and tools in application development. |Introduction to Application Development|[Link]||Live Video Presentation<br /><br />Independent Learning||Online Quizzes<br /><br />Weekly Consultation|Lecture Presentations<br /><br />Videos|2 weeks|
+|1. Explored and Created a mobile app using the chosen platform of the instructors (Flutter)|Introduction to App Development Using Flutter|[Link]||Live Video Presentation<br /><br />Live Code Sharing<br /><br />Independent Learning ||Lecture Presentations<br /><br />Offline Videos<br /><br />Weekly Consultation<br /><br />Mobile App Output Deployed on Google Play| Offline SDK and Documentation<br /><br />Videos|3 weeks|
+|1. Identified and describe the different emerging Technologies for Big Data. <br /><br />Explored and Learn how to use Amazon Web Services|Big Data and Cloud Computing|[Link]||Video Presentation <br /><br />Independent Learning| |Weekly Consultation<br /><br />Live Demo<br /><br />Independent Learning<br /><br />Assessment of Developed Application that utilizes AWS|Printable Learning Resource Materials|2 weeks|
+|1. Learned how to build smart and IoT(Internet of Things) devices|Introduction to Smart Devices and IoT Emerging Technologies|[Link]|||Video Presentation<br /><br />Live Video Demos<br /><br />Independent Learning||Printable Learning Resource Materials<br /><br />Micro Controllers|4 weeks|
 
 > Note: This syllabus is flexible and may include additional topics and activities deemed necessary by the teacher and students.
 
