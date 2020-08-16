@@ -42,20 +42,20 @@ Specifically, the school endeavor to:
 #### III. Program/Degree : BS in Information Technology
 #### IV. Program/Degree Outcomes: Based on CMO No. 25, s. 2015
 |The graduates of BSIT must: |   |
-|---|---|
-|IT01|Apply knowledge of computing, science, and mathematics appropriate to the discipline|
-|IT02|Understand best practices and standards and their applications|
-|IT03|Analyze complex problems, and identify and define the computing requirements appropriate to its solution|
-|IT04|Identify and analyze user needs and take them into account in the selection, creation, evaluation and administration of computer-based systems|
-|IT05|Design, implement, and evaluate computer-based systems, processes, components, or programs to meet desired needs and requirements under various constraints|
-|IT06|Integrate IT-based solutions into the user environment effectively|
-|IT07|Apply knowledge through the use of current techniques, skills, tools, and practices necessary for the IT profession|
-|IT08|Function effectively as a member or leader of a development team recognizing the different roles within a team to accomplish a common goal|
-|IT09|Assist in the creation of an effective IT project plan|
-|IT010|Communicate effectively with computing community and with society at large about complex computing activities through logical writing, presentations, and clear instructions|
-|IT011|Analyze the local and global impact of computing information technology on individuals, organization, and society|
-|IT012|Understand professional, ethical, legal, security, and social issues and responsibilities in the utilization of information technology|
-|IT013|Recognize the need for and engage in planning self-learning and improving performance as a foundation for continuing professional development|
+|--|--|
+|**IT01**|Apply knowledge of computing, science, and mathematics appropriate to the discipline|
+|**IT02**|Understand best practices and standards and their applications|
+|**IT03**|Analyze complex problems, and identify and define the computing requirements appropriate to its solution|
+|**IT04**|Identify and analyze user needs and take them into account in the selection, creation, evaluation and administration of computer-based systems|
+|**IT05**|Design, implement, and evaluate computer-based systems, processes, components, or programs to meet desired needs and requirements under various constraints|
+|**IT06**|Integrate IT-based solutions into the user environment effectively|
+|**IT07**|Apply knowledge through the use of current techniques, skills, tools, and practices necessary for the IT profession|
+|**IT08**|Function effectively as a member or leader of a development team recognizing the different roles within a team to accomplish a common goal|
+|**IT09**|Assist in the creation of an effective IT project plan|
+|**IT010**|Communicate effectively with computing community and with society at large about complex computing activities through logical writing, presentations, and clear instructions|
+|**IT011**|Analyze the local and global impact of computing information technology on individuals, organization, and society|
+|**IT012**|Understand professional, ethical, legal, security, and social issues and responsibilities in the utilization of information technology|
+|**IT013**|Recognize the need for and engage in planning self-learning and improving performance as a foundation for continuing professional development|
 
 #### V. Course No. and Title: CC 206 – Application Development and Emerging Technologies
 #### VI. School Year/Semester Offered: SY 2020-2021/ 1<sup>st</sup> Semester
@@ -71,21 +71,21 @@ This course covers development of mobile apps; implementation of emerging distri
 
 Upon completion of this course, the students can:
 
-LO1. Present the concepts and importance of Information Systems in Businesses, in its operations and its decision-makers decisions. 
+**LO1.** Present the concepts and importance of Information Systems in Businesses, in its operations and its decision-makers decisions. 
 
-LO2. Present the different principles, characteristics, useful and robust transaction processing system that will support business operations. 
+**LO2.** Present the different principles, characteristics, useful and robust transaction processing system that will support business operations. 
 
-LO3. Present different systems architecture that can be used for Enterprise Computing;
+**LO3.** Present different systems architecture that can be used for Enterprise Computing;
 
-LO4. Build students’ understanding of the different programming environments available for business application development.
+**LO4.** Build students’ understanding of the different programming environments available for business application development.
 
-LO5. Develop students’ skills in analysis, design, and development of application software using a programming environment.
+**LO5.** Develop students’ skills in analysis, design, and development of application software using a programming environment.
 
-LO6. Show the differences between a structured, event-driven, and object-oriented application design and explain the implications of these approaches to the design and development process.
+**LO6.** Show the differences between a structured, event-driven, and object-oriented application design and explain the implications of these approaches to the design and development process.
 
-LO7. Develop a functional understanding of proactive principled behavior and time management.
+**LO7.** Develop a functional understanding of proactive principled behavior and time management.
 
-LO8. Apply the concept of commitment and rigorous completion to ensure attitudes necessary for successful team behavior including empathetic listening, consensus negotiation, conflict resolution, and synergistic solution finding.
+**LO8.** Apply the concept of commitment and rigorous completion to ensure attitudes necessary for successful team behavior including empathetic listening, consensus negotiation, conflict resolution, and synergistic solution finding.
 
 
 #### X. Course Design Matrix
@@ -94,13 +94,13 @@ LO8. Apply the concept of commitment and rigorous completion to ensure attitudes
 > **DLO**: Desired Learning Outcomes - At end of the unit, the students must have:
 
 |DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face (OBTL)|Remote (OBTL)|Face to Face (ALO)|Remote (ALO)|RESOURCE MATERIAL|TIME TABLE|
-|---|---|---|---|---|---|---|---|---|
-|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes<br /><br />Course outcomes, Course description and course requirements. | 2013 University Code<br /><br />University Student Handbook<br /><br />Bulletin of Information | Class Discussion | Video Presentation <br /> Independent Reading|N/A|N/A| Video IDs <br /><br />School & College Websites <br /><br />GitHub Repositories | 3 hours |
-|1. Identified and described Information Systems and its significance in this modern era of computing.|Overview of Business Information Systems|[Link]| |Video Lecture<br /><br />Independent Learning||Weekly Consultation<br /><br />Feedbacking<br /><br />Research Work|Printable Learning Materials <br /><br />Presentations<br /><br />Videos|1 week|
-|1. Learned the different processes and tools in application development. |Introduction to Application Development|[Link]||Live Video Presentation<br /><br />Independent Learning||Online Quizzes<br /><br />Weekly Consultation|Lecture Presentations<br /><br />Videos|2 weeks|
-|1. Explored and Created a mobile app using the chosen platform of the instructors (Flutter)|Introduction to App Development Using Flutter|[Link]||Live Video Presentation<br /><br />Live Code Sharing<br /><br />Independent Learning ||Lecture Presentations<br /><br />Offline Videos<br /><br />Weekly Consultation<br /><br />Mobile App Output Deployed on Google Play| Offline SDK and Documentation<br /><br />Videos|3 weeks|
-|1. Identified and describe the different emerging Technologies for Big Data. <br /><br />Explored and Learn how to use Amazon Web Services|Big Data and Cloud Computing|[Link]||Video Presentation <br /><br />Independent Learning| |Weekly Consultation<br /><br />Live Demo<br /><br />Independent Learning<br /><br />Assessment of Developed Application that utilizes AWS|Printable Learning Resource Materials|2 weeks|
-|1. Learned how to build smart and IoT(Internet of Things) devices|Introduction to Smart Devices and IoT Emerging Technologies|[Link]|||Video Presentation<br /><br />Live Video Demos<br /><br />Independent Learning||Printable Learning Resource Materials<br /><br />Micro Controllers|4 weeks|
+|--|--|--|--|--|--|--|--|--|
+|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes  Course outcomes, Course description and course requirements. | 2013 University Code  University Student Handbook  Bulletin of Information | Class Discussion | Video Presentation<br /><br />Independent Reading |N/A|N/A| Video IDs<br /><br />School & College Websites<br /><br />GitHub Repositories | 3 hours |
+|1. Identified and described Information Systems and its significance in this modern era of computing.|Overview of Business Information Systems|[Link]| |Video Lecture<br /><br />Independent Learning||Weekly Consultation<br /><br />Feedback Sessions<br /><br />Research Work|Printable Learning Materials   Presentations  Videos|1 week|
+|1. Learned the different processes and tools in application development. |Introduction to Application Development<br /><br />1. Version Control Systems.<br /><br />2. Application Development Process|https://www.atlassian.com/git<br /><br />https://medium.com/rosberryapps/mobile-app-development-process-at-rosberry-discovery-and-inception-stage-582a71387e8b<br /><br />https://medium.com/@infinijith/5-phases-of-mobile-app-development-process-you-should-know-4dec3c42b86b||Live Video Presentation<br /><br />Independent Learning||Online Quizzes <br /><br />Weekly Consultation<br /><br />Git Exercises|Lecture Presentations<br /><br />Videos<br /><br />Git Offline Guide|2 weeks|
+|1. Explored and Created a mobile app using the chosen platform of the instructors (Flutter)|Introduction to App Development Using Flutter<br /><br />1. Basics of Dart Programming<br /><br />2. Material Design|https://dart.dev<br /><br />https://material.io/<br /><br />||Live Video Presentation<br /><br />Live Code Sharing<br /><br />Independent Learning ||Lecture Presentations<br /><br />Offline Videos  Weekly Consultation<br /><br />Mobile App Output Deployed on Google Play| Offline SDK and Documentation  <br /><br />Videos |3 weeks|
+|1. Identified and describe the different emerging Technologies for Big Data.   Explored and Learn how to use Amazon Web Services (AWS)|Big Data and Cloud Computing|[Link]||Video Presentation<br /><br />Independent Learning| |Weekly Consultation<br /><br />Live Demo<br /><br />Independent Learning<br /><br />Assessment of Developed Application that utilizes AWS|Printable Learning Resource Materials|2 weeks|
+|1. Learned how to build smart and IoT(Internet of Things) devices|Introduction to Smart Devices and IoT Emerging Technologies|[Link]||Video Presentation  Live Video Demos  Independent Learning||Assessment of built smart/IoT device  Weekly Consultation|Printable Learning Resource Materials  Micro Controllers|4 weeks|
 
 > Note: This syllabus is flexible and may include additional topics and activities deemed necessary by the teacher and students.
 
@@ -110,25 +110,35 @@ LO8. Apply the concept of commitment and rigorous completion to ensure attitudes
 #### XIV. Course Mapping
 #### A. Course Outcomes in relation to Program Outcomes and Institutional Outcomes
 |Course Outcomes|Common to all Programs|Specific to the Program|Institutional Outcomes|
-|---|---|---|---|
+|--|--|--|--|
 |a|b|c|d|
 
 #### B. Course Outcomes in relation with Teaching Learning Activities and Assessment Strategies
 
 |Course Outcomes|Teaching and Learning Activities|Assessment Strategies|
-|---|---|---|
+|--|--|--|
 |a|b|c|
 
 Prepared and Designed By:
 
 
-Reviewed by:	
 
-DR. CYRENEO DOFITAS JR.<br>
+**MARK JOSEPH J. SOLIDARIOS**
+Part-time Instructor
+
+
+
+Reviewed by:
+
+​	
+
+**PROF. CYRENEO DOFITAS JR.**<br>
 Department Chair 
                                                        
-Approved:   	
-DR. MA. BETH S. CONCEPCION<br>
+Approved:   
+
+
+**DR. MA. BETH S. CONCEPCION**<br>
 College Dean
 
 
