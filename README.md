@@ -93,31 +93,52 @@ Upon completion of this course, the students can:
 
 > **DLO**: Desired Learning Outcomes - At end of the unit, the students must have:
 
-|DESIRED LEARNING OUTCOMES (DLO)|COURSE CONTENT/ SUBJECT MATTER|TEXTBOOKS/ REFERENCES|Face to Face (OBTL)|Remote (OBTL)|Face to Face (ALO)|Remote (ALO)|RESOURCE MATERIAL|TIME TABLE|
+|DESIRED LEARNING OUTCOMES (DLO)|**COURSE CONTENT/ SUBJECT MATTER**|**TEXTBOOKS/ REFERENCES**|**Face to Face (OBTL)**|**Remote (OBTL)**|**Face to Face (ALO)**|**Remote (ALO)**|**RESOURCE MATERIAL**|**TIME TABLE**|
 |--|--|--|--|--|--|--|--|--|
-|1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes  Course outcomes, Course description and course requirements. | 2013 University Code  University Student Handbook  Bulletin of Information | Class Discussion | Video Presentation<br /><br />Independent Reading |N/A|N/A| Video IDs<br /><br />School & College Websites<br /><br />GitHub Repositories | 3 hours |
-|1. Identified and described Information Systems and its significance in this modern era of computing.|Overview of Business Information Systems|[Link]| |Video Lecture<br /><br />Independent Learning||Weekly Consultation<br /><br />Feedback Sessions<br /><br />Research Work|Printable Learning Materials   Presentations  Videos|1 week|
-|1. Learned the different processes and tools in application development. |Introduction to Application Development<br /><br />1. Version Control Systems.<br /><br />2. Application Development Process|https://www.atlassian.com/git<br /><br />https://medium.com/rosberryapps/mobile-app-development-process-at-rosberry-discovery-and-inception-stage-582a71387e8b<br /><br />https://medium.com/@infinijith/5-phases-of-mobile-app-development-process-you-should-know-4dec3c42b86b||Live Video Presentation<br /><br />Independent Learning||Online Quizzes <br /><br />Weekly Consultation<br /><br />Git Exercises|Lecture Presentations<br /><br />Videos<br /><br />Git Offline Guide|2 weeks|
-|1. Explored and Created a mobile app using the chosen platform of the instructors (Flutter)|Introduction to App Development Using Flutter<br /><br />1. Basics of Dart Programming<br /><br />2. Material Design|https://dart.dev<br /><br />https://material.io/<br /><br />||Live Video Presentation<br /><br />Live Code Sharing<br /><br />Independent Learning ||Lecture Presentations<br /><br />Offline Videos  Weekly Consultation<br /><br />Mobile App Output Deployed on Google Play| Offline SDK and Documentation  <br /><br />Videos |3 weeks|
-|1. Identified and describe the different emerging Technologies for Big Data.   Explored and Learn how to use Amazon Web Services (AWS)|Big Data and Cloud Computing|[Link]||Video Presentation<br /><br />Independent Learning| |Weekly Consultation<br /><br />Live Demo<br /><br />Independent Learning<br /><br />Assessment of Developed Application that utilizes AWS|Printable Learning Resource Materials|2 weeks|
-|1. Learned how to build smart and IoT(Internet of Things) devices|Introduction to Smart Devices and IoT Emerging Technologies|[Link]||Video Presentation  Live Video Demos  Independent Learning||Assessment of built smart/IoT device  Weekly Consultation|Printable Learning Resource Materials  Micro Controllers|4 weeks|
+|**At the end of the unit, the student must have:**<br /><br />1. Internalized and demonstrated the vision, mission, core values of the University and the institutional, college/campus, degree and course outcomes|Unit 0: Vision, Mission, Core Values, and Outcomes  Course outcomes, Course description and course requirements. | 2013 University Code  University Student Handbook  Bulletin of Information | Class Discussion | Video Presentation<br /><br />Independent Reading |N/A|N/A| Video IDs<br /><br />School & College Websites<br /><br />GitHub Repositories | 3 hour |
+|**At the end of the unit, the s student must have:**<br /><br />1. Learned the different processes and tools in application development. |**Introduction to Application Development**<br /><br />1. Version Control Systems.<br /><br />2. Application Development Process|https://www.atlassian.com/git<br /><br />https://medium.com/rosberryapps/mobile-app-development-process-at-rosberry-discovery-and-inception-stage-582a71387e8b<br /><br />https://medium.com/@infinijith/5-phases-of-mobile-app-development-process-you-should-know-4dec3c42b86b||Live Video Presentation<br /><br />Independent Learning||Online Quizzes <br /><br />Weekly Consultation<br /><br />Git Exercises|Lecture Presentations<br /><br />Videos<br /><br />Git Offline Guide|2 weeks|
+|**At the end of the unit, the s student must have:**<br /><br />1. Learned how to code using Dart programming Language.<br /><br />2. Understood and applied the principles of Material Design<br /><br />3. Explored and Created a mobile app using the chosen platform  (Flutter)|**Introduction to App Development Using Flutter**<br /><br />1. Basics of Dart Programming<br /><br />2. Material Design<br /><br />3. Flutter App Development|https://dart.dev<br /><br />https://material.io/<br /><br />https://docs.flutter.io/flutter||Live Video Presentation<br /><br />Live Code Sharing<br /><br />Independent Learning || Weekly Consultation<br /><br />Mobile App Output Deployed on Google Play | Offline SDK and Documentation  <br /><br />Videos |3 weeks|
+|**At the end of the unit, the s student must have:**<br /><br />1. Identified and describe the different emerging Technologies for Big Data.   Explored and Learn how to use Amazon Web Services (AWS)|Big Data and Cloud Computing|https://aws.amazon.com/getting-started/||Video Presentation<br /><br />Independent Learning| |Weekly Consultation<br /><br />Live Demo<br /><br />Independent Learning<br /><br />Assessment of Developed Application that utilizes AWS|Printable Learning Resource Materials|2 weeks|
+|**At the end of the unit, the s student must have:**<br /><br />1. Learned how to build smart and IoT(Internet of Things) devices|Introduction to Smart Devices and IoT Emerging Technologies<br /><br />1. Getting Started with Arduino<br /><br />2. IoT Technologies|https://www.arduino.cc/en/main/docs||Video Presentation  Live Video Demos  Independent Learning||Assessment of built smart/IoT device  Weekly Consultation|Printable Learning Resource Materials  Micro Controllers|4 weeks|
 
 > Note: This syllabus is flexible and may include additional topics and activities deemed necessary by the teacher and students.
 
 #### XI. Criteria for Grading 
-#### XII. Grading 
-#### XIII. Other Requirements 
-#### XIV. Course Mapping
+
+#### Lecture 40%
+
+| Components                         | Percentage |
+| ---------------------------------- | ---------- |
+| Major Examinations (Midterm/Final) | 40%        |
+| Quizzes/Long Test /Unit Tests      | 30%        |
+| Supplementary Outputs              | 10%        |
+| Class Participation                | 20%        |
+| Total                              | 100%       |
+
+#### Laboratory 60% (Remote Output)
+
+| Components            | Percentage |
+| --------------------- | ---------- |
+| Practical Exam        | 50%        |
+| Laboratory Activities | 20%        |
+| Project               | 30%        |
+| Total                 | 100%       |
+
+#### XII. Other Requirements 
+
+Students must have a GitHub account.
+
+#### XIII. Course Mapping
 #### A. Course Outcomes in relation to Program Outcomes and Institutional Outcomes
 |Course Outcomes|Common to all Programs|Specific to the Program|Institutional Outcomes|
 |--|--|--|--|
-|a|b|c|d|
+|||||
 
 #### B. Course Outcomes in relation with Teaching Learning Activities and Assessment Strategies
 
 |Course Outcomes|Teaching and Learning Activities|Assessment Strategies|
 |--|--|--|
-|a|b|c|
+||||
 
 Prepared and Designed By:
 
