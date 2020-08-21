@@ -71,21 +71,17 @@ This course covers development of mobile apps; implementation of emerging distri
 
 Upon completion of this course, the students can:
 
-**LO1.** Present the concepts and importance of Information Systems in Businesses, in its operations and its decision-makers decisions. 
+**LO1**. Discuss the different methods in developing an app, enumerate its processes, formulate solutions and apply techniques to the given problem;
 
-**LO2.** Present the different principles, characteristics, useful and robust transaction processing system that will support business operations. 
+**LO2.** Design and Develop an app using a programming environment;
 
-**LO3.** Present different systems architecture that can be used for Enterprise Computing;
+**LO3.** Identify and describe the different emerging Technologies for Big Data;
 
-**LO4.** Build students’ understanding of the different programming environments available for business application development.
+**LO4.** Solve computing problems using cloud solutions;
 
-**LO5.** Develop students’ skills in analysis, design, and development of application software using a programming environment.
+**LO5.**  Apply cloud computing solutions to mobile apps.
 
-**LO6.** Show the differences between a structured, event-driven, and object-oriented application design and explain the implications of these approaches to the design and development process.
-
-**LO7.** Develop a functional understanding of proactive principled behavior and time management.
-
-**LO8.** Apply the concept of commitment and rigorous completion to ensure attitudes necessary for successful team behavior including empathetic listening, consensus negotiation, conflict resolution, and synergistic solution finding.
+**LO6.** Design and build IoT-enabled devices using Micro-controllers
 
 
 #### X. Course Design Matrix
@@ -128,24 +124,15 @@ Upon completion of this course, the students can:
 
 Students must have a GitHub account.
 
-#### XIII. Course Mapping
-#### A. Course Outcomes in relation to Program Outcomes and Institutional Outcomes
-|Course Outcomes|Common to all Programs|Specific to the Program|Institutional Outcomes|
-|--|--|--|--|
-|||||
+------
 
-#### B. Course Outcomes in relation with Teaching Learning Activities and Assessment Strategies
 
-|Course Outcomes|Teaching and Learning Activities|Assessment Strategies|
-|--|--|--|
-||||
 
 Prepared and Designed By:
 
 
 
-**MARK JOSEPH J. SOLIDARIOS**
-Part-time Instructor
+**MARK JOSEPH J. SOLIDARIOS**                 **JOHN REY A. ALIPE**<br />Part-time Instructor                                    Part-time Instructor
 
 
 
@@ -157,6 +144,7 @@ Reviewed by:
 Department Chair 
                                                        
 Approved:   
+
 
 
 **DR. MA. BETH S. CONCEPCION**<br>
