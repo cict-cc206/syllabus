@@ -62,7 +62,7 @@ Specifically, the school endeavor to:
 
 #### VII. Course Description:  
 
-This course covers development of mobile apps; implementation of emerging distributed computing environments using traditional and contemporary development methodologies and building IoT devices. Students will utilize a contemporary development environment to implement a project that spans the scope of the pre-requisite courses.  Towards the end of the course, students will be expected to present a complete and working mobile application. This is not a course that will teach a particular programming language. Students are expected to learn and use development technologies in order to develop the project for the course. 
+This course covers development of apps (web, mobile); implementation of emerging distributed computing environments using traditional and contemporary development methodologies with emphasis on requirements management, interface design, usability, testing, deployment including ethical and legal considerations. Towards the end of the course, students will be expected to present a complete and working mobile application with respective software documentation. This is not a course that will teach a particular programming language. Students are expected to learn and use development technologies in order to develop the project for the course. 
 
 
 #### VIII. Course Credit/Unit:  3 units ( 3 hours lecture)
