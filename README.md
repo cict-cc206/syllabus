@@ -81,8 +81,6 @@ Upon completion of this course, the students can:
 
 **LO5.**  Apply cloud computing solutions to mobile apps.
 
-**LO6.** Design and build IoT-enabled devices using Micro-controllers
-
 
 #### X. Course Design Matrix
 > **OBTL**: Outcomes-Based Teaching & Learning; **ALO** : Assessment of Learning Outcomes
